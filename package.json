@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZichKoding/elindo.git"
+    "url": "git+https://github.com/Elindo586/techunion.git"
   },
   "author": "ZichKoding",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZichKoding/elindo/issues"
+    "url": "https://github.com/Elindo586/techunion/issues"
   },
-  "homepage": "https://github.com/ZichKoding/elindo#readme"
+  "homepage": "https://github.com/Elindo586/techunion#readme"
 }
