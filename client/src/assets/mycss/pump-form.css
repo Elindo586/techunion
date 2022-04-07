@@ -1,0 +1,17 @@
+.pump-labels {
+  width: 150px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.hydraulic-pump-configurator {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 25px;
+}
+
+.pump-labels-final {
+  width: 100px;
+  display: inline-block;
+  margin-bottom: 4px;
+}

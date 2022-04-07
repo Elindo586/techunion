@@ -1,0 +1,17 @@
+.motor-form-labels {
+  width: 150px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.hydraulicMotor1Configurator {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+.motor-labels-final {
+  width: 100px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
