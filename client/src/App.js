@@ -24,6 +24,7 @@ import Formulas from "./pages/Formulas";
 import Interactive from "./pages/Interactive";
 import ContactUs from "./pages/ContactUs";
 import Thanks from "./pages/ThankYou";
+import Cylinders from "./pages/Cylinders";
 
 function App() {
   return (
@@ -75,6 +76,9 @@ function App() {
 
           {/* Thank you page */}
           <Route path="/ThankYou" element={<Thanks />} />
+
+          {/* Cylinders */}
+          <Route path="/Cylinders" element={<Cylinders />} />
 
           {/* Re-direct */}
           <Route path="*" element={<Homepage />} />

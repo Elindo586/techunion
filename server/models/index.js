@@ -1,3 +1,4 @@
-const Parts = require('./Parts');
+const Parts = require("./Parts");
+const Cylinders = require("./cylinders");
 
-module.exports = { Parts };
+module.exports = { Parts, Cylinders };
