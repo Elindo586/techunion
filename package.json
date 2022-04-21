@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "tu.biz website converted to MERN stack.",
   "main": "server/server.js",
-  "dependencies": {
-    "react-snap": "^1.23.0"
-  },
   "devDependencies": {
     "concurrently": "^7.0.0"
   },
