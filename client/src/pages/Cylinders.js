@@ -199,7 +199,8 @@ function Cylinders() {
         <p className="invy-text">
           Here is a quick overview of standard cylinders coming from our
           inventory. If you have any requirements on these cylinders you can
-          always <Link to="/ContactUs"> contact us </Link> for a quote request.
+          always <Link to="/ContactUs"> contact us </Link> for a quote request,
+          thank you.
         </p>
       </div>
       <div className="col-md-12">
